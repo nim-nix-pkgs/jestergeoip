@@ -11,7 +11,6 @@
   inputs.src-jestergeoip-master.ref   = "refs/heads/master";
   inputs.src-jestergeoip-master.owner = "JohnAD";
   inputs.src-jestergeoip-master.repo  = "jestergeoip";
-  inputs.src-jestergeoip-master.dir   = "";
   inputs.src-jestergeoip-master.type  = "github";
   
   inputs."jesterwithplugins".owner = "nim-nix-pkgs";
